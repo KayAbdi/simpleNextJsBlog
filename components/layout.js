@@ -11,7 +11,7 @@ export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
       <Head>
-        <link rel="icon" href={`${process.env.FAVICON}/favicon.ico`} />
+        <link rel="icon" href={`${process.env.NEXT_PUBLIC_FAVICON}/favicon.ico`} />
         <meta
           name="description"
           content="Learn how to build a personal website using Next.js"

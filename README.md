@@ -3,7 +3,7 @@ First, clone this repo into your local machine
 
 then, run the development server:
 
-npm run dev
+npm run dev </br>
 yarn dev
 
 Open http://localhost:3000 with your browser to see the result.

@@ -1,3 +1,14 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+## Getting Started locally
+First, clone this repo into your local machine
 
-If you would like to see this blog on the browser, fork it and then clone it to your local machine, then open it with your terminal, then type "npm run dev" then go to localhost:3000
+then, run the development server:
+
+npm run dev
+# or
+yarn dev
+
+
+Open http://localhost:3000 with your browser to see the result.
+
+Or click the below link to see the GitHub pages version of it:
+
